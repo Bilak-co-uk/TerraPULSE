@@ -11,7 +11,7 @@
 ---
 ![GitHub release](https://img.shields.io/github/v/release/Bilak-co-uk/TerraPULSE)
 ![GitHub downloads](https://img.shields.io/github/downloads/Bilak-co-uk/TerraPULSE/total)
-
+---
 
 TerraPULSE automates the tedious part of Terraform provider upgrades: finding exactly which resource arguments changed, were removed, renamed, or deprecated between two versions. Instead of reading through changelogs and raw markdown, you get a colour-coded diff table in seconds.
 
