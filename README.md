@@ -1,4 +1,4 @@
-# TerraPULSE# TerraPULSE (Binary Releases) — Parameter Update Listing for Schema Evolution
+# TerraPULSE (Binary Releases) — Parameter Update Listing for Schema Evolution
 
 ---
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078d4?logo=windows)
