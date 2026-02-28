@@ -1,0 +1,83 @@
+END USER LICENSE AGREEMENT (EULA)
+
+Last Updated: 2026
+
+This End User License Agreement ("Agreement") is a legal agreement
+between you ("User") and Zsolt Bilak ("Licensor")
+for the software distributed in this repository,
+including all binary files and related materials ("Software").
+
+By downloading, installing, or using the Software,
+you agree to be bound by this Agreement.
+
+
+1. GRANT OF LICENSE
+
+Licensor grants you a limited, non-exclusive,
+non-transferable, non-sublicensable, revocable license
+to download and use the Software for personal or
+internal purposes only.
+
+The Software is licensed, not sold.
+
+
+2. RESTRICTIONS
+
+Except as permitted by applicable law or third-party licenses,
+you may NOT:
+
+- Modify or create derivative works of the Software
+- Redistribute or sublicense the Software
+- Sell, rent, lease, or commercially exploit the Software
+- Provide the Software as a hosted or managed service
+- Remove copyright notices
+- Reverse engineer or disassemble the Software
+
+Nothing in this section restricts rights granted under
+third-party open source licenses included with this Software.
+
+
+3. INTELLECTUAL PROPERTY
+
+All rights, title, and interest in the Software
+remain exclusively with the Licensor.
+
+
+4. THIRD-PARTY COMPONENTS
+
+This Software includes third-party components licensed separately,
+including:
+
+- PySide6 (LGPLv3)
+- Nuitka (Apache License 2.0)
+- Python-Markdown (BSD 3-Clause)
+
+Your rights with respect to those components
+are governed by their respective licenses.
+
+Nothing in this Agreement limits rights granted under those licenses.
+
+
+5. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED.
+
+
+6. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW,
+LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING
+FROM USE OF THE SOFTWARE.
+
+
+7. TERMINATION
+
+This Agreement terminates automatically if you
+violate its terms.
+
+
+8. GOVERNING LAW
+
+This Agreement shall be governed by the laws of
+United Kingdom of great Britain.
